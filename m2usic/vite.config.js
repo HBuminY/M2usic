@@ -7,5 +7,5 @@ export default defineConfig({
   build:{
     outDir:'../docs'
   },
-  base:"/okturk/"
+  base:"/m2usic/"
 })
